@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "list_supermarket",
+    "slug": "list_supermarket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
